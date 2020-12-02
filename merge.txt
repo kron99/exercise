@@ -1,1 +1,2 @@
 The new line in master
+sencond line in master
